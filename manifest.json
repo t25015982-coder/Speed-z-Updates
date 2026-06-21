@@ -6,7 +6,7 @@
   "checksum_sha256": "PLACEHOLDER_SHA256",
   "file_size_bytes": 0,
   "min_launcher_version": "1.0.7",
-  "release_notes": "Updated launcher to v1.0.7. Red/gold theme. No key expiry. Discord webhook integration. Executor-style UI with Inject Now button.",
+  "release_notes": "Updated launcher to v1.0.7. Red/gold theme. No key expiry. Discord webhook integration.",
   "is_mandatory": false,
   "delta_patches": [],
   "changelog_url": "https://discord.com/api/webhooks/1518038577681006602/_Exf6rfuf7Ylrq0G13y-t4dpo4dqSm81AAXCbix-wP-0wI8cId-fB-8-Lo-2uPINzp9t"
