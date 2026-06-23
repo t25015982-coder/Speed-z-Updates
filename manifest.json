@@ -1,1 +1,12 @@
-"download_url": "https://raw.githubusercontent.com/t25015982-coder/Speed-z-Updates/main/SPEED-Z-v1.0.7.zip"
+  "version": "1.0.9",
+  "build_number": 109,
+  "release_date": "2026-06-23",
+  "download_url": "https://raw.githubusercontent.com/t25015982-coder/Speed-z-Updates/main/SPEED-Z-v1.0.9.zip",
+  "checksum_sha256": "PLACEHOLDER_SHA256",
+  "file_size_bytes": 0,
+  "min_launcher_version": "1.0.0",
+  "release_notes": "Complete UI overhaul with glassmorphism design. Modern frosted glass panels, violet accent glows, gradient backgrounds, rounded corners, and smooth animations across all pages.",
+  "is_mandatory": false,
+  "delta_patches": [],
+  "changelog_url": "https://discord.com/api/webhooks/1518038577681006602/_Exf6rfuf7Ylrq0G13y-t4dpo4dqSm81AAXCbix-wP-0wI8cId-fB-8-Lo-2uPINzp9t"
+}
