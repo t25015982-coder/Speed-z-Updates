@@ -1,3 +1,4 @@
+{
   "version": "1.0.9",
   "build_number": 109,
   "release_date": "2026-06-23",
@@ -8,5 +9,5 @@
   "release_notes": "Complete UI overhaul with glassmorphism design. Modern frosted glass panels, violet accent glows, gradient backgrounds, rounded corners, and smooth animations across all pages.",
   "is_mandatory": false,
   "delta_patches": [],
-  "changelog_url": "https://discord.com/api/webhooks/1518038577681006602/_Exf6rfuf7Ylrq0G13y-t4dpo4dqSm81AAXCbix-wP-0wI8cId-fB-8-Lo-2uPINzp9t"
+  "changelog_url": "https://discord.com/api/webhooks/1519125560234606694/wH4WOqD_W6ulm5YBOF31_ry8xoOFHT04-6ufldbtAr4foYS2Q_QbfDnfuzlvGXl_Rb6f"
 }
